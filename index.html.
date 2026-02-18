@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RollAI - Gym AI Assistant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="images/rollai-logo.png" alt="RollAI Logo" class="logo">
+        <nav>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h1>AI-Powered Assistance for Your Gym</h1>
+        <p>Manage clients, schedule classes, and track progress effortlessly.</p>
+        <a href="#contact" class="cta-button">Get Started</a>
+    </section>
+
+    <section id="features">
+        <h2>Features</h2>
+        <ul>
+            <li>Custom workout plans</li>
+            <li>Client management</li>
+            <li>Progress tracking & analytics</li>
+        </ul>
+    </section>
+
+    <section id="pricing">
+        <h2>Pricing</h2>
+        <p>Starting at $29/month. Flexible plans for gyms of all sizes.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message"></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2026 RollAI. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
